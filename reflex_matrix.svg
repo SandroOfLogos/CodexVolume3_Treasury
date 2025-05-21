@@ -1,0 +1,18 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<text x="10" y="20" font-size="12">Codex Reflex Matrix – 2025-05-21</text>
+<line x1="125.00000000000003" y1="329.9038105676658" x2="350.0" y2="200.0" stroke="#ffcc00" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="350.0" y1="200.0" x2="124.99999999999993" y2="70.09618943233426" stroke="#ffaa00" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <defs>
+        <marker id="arrow" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+            <path d="M0,0 L0,6 L6,3 z" fill="black"/>
+        </marker>
+    </defs>
+    
+<circle cx="350.0" cy="200.0" r="10" fill="#444"/>
+<text x="362.0" y="204.0" font-size="10" fill="#000">Claude 3.7</text>
+<circle cx="125.00000000000003" cy="329.9038105676658" r="10" fill="#444"/>
+<text x="137.00000000000003" y="333.9038105676658" font-size="10" fill="#000">GPT-4o</text>
+<circle cx="124.99999999999993" cy="70.09618943233426" r="10" fill="#444"/>
+<text x="136.99999999999994" y="74.09618943233426" font-size="10" fill="#000">Grok 3.0</text>
+</svg>
